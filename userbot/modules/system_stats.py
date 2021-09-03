@@ -159,7 +159,7 @@ async def bot_ver(event):
         revout = str(stdout.decode().strip()) + str(stderr.decode().strip())
 
         await event.edit(
-            "**☛**RAM-UBOT Versi:** \n "
+            "**☛**VELLO-USER Versi:** \n "
             f"{verout}"
             "\n**☛**Revisi:**\n "
             f"{revout}"
@@ -241,7 +241,7 @@ async def amireallyalive(alive):
         f"┣• `✨ Modules  :`{len(modules)} \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯\n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ \n"
-        f"[𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({https://www.instagram.com/nerotampan/}) || [{REPO_NAME}](https://github.com/vellovernn/VELLO-USER) || [𝐆𝐑𝐎𝐔𝐏]({t.me/AsupanVern}) \n"
+        f"[𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌](https://www.instagram.com/nerotampan/) || [{REPO_NAME}](https://github.com/vellovernn/VELLO-USER) || [𝐆𝐑𝐎𝐔𝐏](t.me/AsupanVern) \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰")
     if ALIVE_LOGO:
         try:
@@ -278,7 +278,7 @@ async def amireallyalive(alive):
         f"❃ **Versi Bot**      ➥ `7.0` \n"
         f"❃ **Modul**           ➥ `{len(modules)}` \n\n"
         f"**▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰**\n"
-        f"[{REPO_NAME}](https://github.com/vellovernn/VELLO-USER) || [𝗚𝗥𝗢𝗨𝗣]({t.me/AsupanVern}) || [𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠]({https://www.instagram.com/nerotampan/})\n"
+        f"[{REPO_NAME}](https://github.com/vellovernn/VELLO-USER) || [𝗚𝗥𝗢𝗨𝗣](t.me/AsupanVern) || [𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠](https://www.instagram.com/nerotampan/)\n"
         f"**▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ **")
     if ALIVE_LOGO:
         try:
@@ -324,7 +324,7 @@ async def amireallyalive(alive):
         f"┣|• `Modules     :`{len(modules)} Modules \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯ \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ \n"
-        f"[{REPO_NAME}](https://github.com/vellovernn/VELLO-USER) || [𝐆𝐑𝐎𝐔𝐏]({t.me/AsupanVern}) || [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({https://www.instagram.com/nerotampan/}) \n"
+        f"[{REPO_NAME}](https://github.com/vellovernn/VELLO-USER) || [𝐆𝐑𝐎𝐔𝐏](t.me/AsupanVern) || [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌](https://www.instagram.com/nerotampan/) \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰")
     if ALIVE_LOGO:
         try:
