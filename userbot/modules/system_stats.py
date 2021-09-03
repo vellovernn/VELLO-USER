@@ -225,7 +225,7 @@ async def amireallyalive(alive):
     await alive.edit("`Perkenalan diri...`")
     await asyncio.sleep(1)
     await alive.edit("⭐")
-    await asyncio.sleep(3)
+    await asyncio.sleep(2)
     output = (
         f"**     ۩  ⬚⃝⃟    {REPO_NAME} ⬚⃝⃟     ۩ ** \n\n"
         f"\n__**{RAM_TEKS_KOSTUM}**__\n"
